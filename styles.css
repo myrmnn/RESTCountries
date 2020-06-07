@@ -12,6 +12,12 @@ header{
     text-align: center;
 }
 
+.globe{
+    font-size: 4rem;
+    color: blue;
+    margin-bottom: .25em;
+}
+
 .country-title{
     padding-top: 1em;
 }
